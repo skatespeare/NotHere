@@ -32,7 +32,7 @@ Download the APK file and install it on your Android device.
 
 ## Installation
 
-1. Download the latest APK from the [Releases page](https://github.com/YOUR_USERNAME/NotHere/releases/latest).
+1. Download the latest APK from the [Releases page](https://github.com/skatespeare/NotHere/releases/latest).
 2. Open the downloaded APK on your Android device.
 3. Allow installation from this source if Android asks for permission.
 4. Install NotHere.
