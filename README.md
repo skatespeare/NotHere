@@ -4,8 +4,6 @@
 
 NotHere is an Android app that automatically replies to incoming WhatsApp messages with a customizable message, letting people know they can reach you on Signal instead.
 
-![NotHere main screen](screenshots/nothere-main.jpg)
-
 ## Download
 
 **[Download the latest NotHere release](https://github.com/skatespeare/NotHere/releases/latest)**
