@@ -1,6 +1,6 @@
 # NotHere
 
-NotHere is an Android application that automatically responds to incoming messages on WhatsApp.
+NotHere is an Android application that automatically responds to incoming messages on WhatsApp. For example to let your contact know that you moved to Signal.
 
 ## Features
 
