@@ -1,8 +1,8 @@
 # NotHere
 
-**Automatically let your WhatsApp contacts know you've moved to Signal.**
+**Send automatic replies to messages on WhatsApp**
 
-NotHere is an Android app that automatically replies to incoming WhatsApp messages with a customizable message, letting people know they can reach you on Signal instead.
+NotHere is an Android app that automatically replies to incoming WhatsApp messages with a customizable message. For example, to let people know they can reach you on Signal instead.
 
 ## Download
 
